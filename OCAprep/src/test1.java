@@ -1,0 +1,32 @@
+
+public interface test1 {
+  public void returnABC();
+  
+  public default void getr() {
+	  
+  }
+  
+  
+  
+}
+class test2 implements test1{
+int y=re;
+	@Override
+	public void returnABC() {
+		// TODO Auto-generated method stub
+		int re =2;
+	}
+	public static void main (String[] args) {
+		test1 x =  new test2();
+		x.returnABC();
+		Integer  k = 12;
+		
+		
+		
+	}
+	@Override
+	public String getr() {
+		// TODO Auto-generated method stub
+		return "s";
+	}
+}
