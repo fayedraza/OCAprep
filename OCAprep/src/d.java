@@ -1,3 +1,6 @@
+//created by Fayed Raza
+//programs made in order to prepare for the oca exam
+
 
 public abstract class d {
 	final  static int re=3;
