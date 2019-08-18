@@ -1,5 +1,5 @@
 
-abstratc class tdst {
+abstract class tdst {
 
 	
 }
