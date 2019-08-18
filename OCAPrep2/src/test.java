@@ -18,6 +18,14 @@ public static void main (String [] args) {
 	d testobject =  new e();
 	testobject.get();
 	
+	
+	char c =63;
+	
+	switch(c)
+	{
+	case 34:
+		
+	}
 }
 }
 class d{

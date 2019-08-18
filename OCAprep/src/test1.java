@@ -10,7 +10,7 @@ public interface test1 {
   
 }
 class test2 implements test1{
-int y=re;
+
 	@Override
 	public void returnABC() {
 		// TODO Auto-generated method stub
@@ -24,9 +24,9 @@ int y=re;
 		
 		
 	}
-	@Override
-	public String getr() {
+@Override
+	public void getr() {
 		// TODO Auto-generated method stub
-		return "s";
+		
 	}
 }
