@@ -13,6 +13,7 @@ import java.util.Date;
 
 import javax.swing.text.DateFormatter;
 class Triangle{
+	//programs made in order to prepare for the oca exam
 
     
     public static void main(String[] args) {
