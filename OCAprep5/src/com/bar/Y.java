@@ -1,10 +1,13 @@
 //created by Fayed Raza
+
+
+//programs made in order to prepare for the oca exam
+
 //programs made in order to prepare for the oca exam
 
 
+//programs made in order to prepare for the oca exam
 
-
-//in file /root/com/bar/Y.java
 package com.bar;
 
  class s{
