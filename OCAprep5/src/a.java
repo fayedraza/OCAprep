@@ -1,4 +1,5 @@
 //created by Fayed Raza
+
 //programs made in order to prepare for the oca exam
 import java.util.ArrayList;
 import java.util.List;
@@ -18,7 +19,7 @@ transient static int transienttest;
 	  	Object b = new Object[] {1,2,3,"E","lk", new String[]{}};
 	  	double er =3;
 	  	int i = 3;
-	  //	System.out.print(er.equals(i));//doesnt complie when ==;
+	  //	System.out.print(er.equals(i)); //doesnt complie when ==;
 	  	int a[][] = {{1,2},null};
 	  	
 	  //	System.out.println(a[1][7]); //throws null pointer exception
