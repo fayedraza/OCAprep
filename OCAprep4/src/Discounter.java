@@ -6,7 +6,7 @@ import java.util.Iterator;
 import java.util.List;
 
 public class Discounter {
-
+	//programs made in order to prepare for the oca exam
 
   public static void calc(short x1) {
 	  System.out.print('b');
