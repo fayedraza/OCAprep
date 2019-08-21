@@ -2,7 +2,6 @@
 //programs made in order to prepare for the oca exam
 
 
-
 import java.io.IOException;
 
 public class A {
