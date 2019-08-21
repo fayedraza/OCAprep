@@ -6,14 +6,14 @@ public static void main (String [] args) {
 	
 	for (char x='A';x<'z';x++) {
 	if( x== 'd' || x=='e')
-		continue; //continue statement
+		break; //break statement
 	System.out.println(x);
 	}
 	
 	
 	l1: for(int x=0; x<=100;x++) { //prints out odd numbers
 		if(x%2 == 0)
-			continue l1; //continue so it cannot print the even numbers
+			continue l1; //continue so it cannot print even numbers
 		
 		System.out.print(x);
 	}
