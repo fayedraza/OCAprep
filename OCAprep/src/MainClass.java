@@ -1,4 +1,4 @@
 //created by Fayed Raza
 public class MainClass {
-//purpose is to portray concepts for the oca exam
+	//programs made in order to prepare for the oca exam
 }

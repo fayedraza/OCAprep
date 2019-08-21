@@ -3,7 +3,7 @@
 
 
 import java.io.IOException;
-
+//programs made in order to prepare for the oca exam
 public class A {
    int re =1;
 	public void getException () throws Exception{
